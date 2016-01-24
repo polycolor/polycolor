@@ -1,0 +1,26 @@
+{
+  "name": "colortool",
+  "version": "0.0.0",
+  "description": "A tool to work with colors by creating, modifying and managing them.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcrda/color-tool.git"
+  },
+  "keywords": [
+    "color",
+    "colour",
+    "color-tool",
+    "tool",
+    "utility"
+  ],
+  "author": "Richard King <richrdkng@gmail.com> (github.com/richrdkng)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gcrda/color-tool/issues"
+  },
+  "homepage": "https://github.com/gcrda/color-tool#readme"
+}

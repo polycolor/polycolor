@@ -1,0 +1,11 @@
+# GitFlow configurations
+
+[gitflow "branch"]
+	develop = develop
+	master = master
+[gitflow "prefix"]
+	feature = feature/
+	release = release/
+	hotfix = hotfix/
+	support = support/
+	versiontag =
