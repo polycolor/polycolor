@@ -1,9 +1,12 @@
-# color-tool
+# polycolor
 
-## Project Management
+Color utility library.
 
-[waffle.io/gcrda/color-tool](//waffle.io/gcrda/color-tool)
+## ©️ License
 
-## Code Review
+This project is licensed under **[MIT][url-license-doc] @ [Richard King](https://richrdkng.com)**
 
-[reviewable.io/reviews/gcrda/color-tool](//reviewable.io/reviews/gcrda/color-tool)
+<!--- References =============================================================================== -->
+
+<!--- URLs -->
+[url-license-doc]: https://github.com/polycolor/polycolor/blob/main/LICENSE
