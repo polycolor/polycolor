@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/polycolor/polycolor/compare/v1.0.1...v1.0.2) (2023-09-25)
+
+
+### Performance Improvements
+
+* **deps:** bump glob from 10.3.4 to 10.3.7 ([db4d8e1](https://github.com/polycolor/polycolor/commit/db4d8e1244d55f2255f516429f6866ff5696a464))
+
 ## [1.0.1](https://github.com/polycolor/polycolor/compare/v1.0.0...v1.0.1) (2023-09-25)
 
 
